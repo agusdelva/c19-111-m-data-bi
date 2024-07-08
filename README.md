@@ -20,7 +20,7 @@ población para analizar las tendencias de adopción de diferentes razas de perr
  <h1 align="center"> ¡Bienvenidos al Proyecto de Mascotas! </h1>
 
 <p align="center" >
-     <img width="1000" heigth="600" src="img/Portada Perro.png">
+     <img width="800" heigth="400" src="img/Portada Perro.png">
      
 </p>
 
