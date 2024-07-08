@@ -6,9 +6,8 @@
 </p>
  <h1 align="center"> Proyecto de Mascotas </h1>
 
-🥇 💻 Desarrollo del Proyecto de Mascotas:   
+🥇 💻 Desarrollo del Proyecto de Mascotas: Análisis de Tendencias de Adopción
 
-** Análisis de Tendencias de Adopción
 Descripción del Proyecto: Analizar datos sobre razas de perros, incluyendo
 características físicas, temperamento y popularidad, para entender las tendencias de
 adopción y ayudar a los refugios de animales a promover la adopción responsable.
