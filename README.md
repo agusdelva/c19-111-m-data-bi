@@ -2,7 +2,7 @@
 <h1 align="center"> NO COUNTRY </h1>
 
 <p align="center" >
-     <img width="600" heigth="400" src="img/NoCountry.png">
+     <img width="400" heigth="200" src="img/NoCountry.png">
 </p>
  <h1 align="center"> Proyecto de Mascotas </h1>
 
