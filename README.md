@@ -19,7 +19,7 @@ plataformas como Kaggle
  <h1 align="center"> ¡Bienvenidos al Proyecto Análisis de Carrito Abandonado! </h1>
 
 <p align="center" >
-     <img width="400" heigth="200" src="img/Portada Perro.png">
+     <img width="400" heigth="200" src="img/carro-compra-sobre-pantalla-tablet.png">
      
 </p>
 
