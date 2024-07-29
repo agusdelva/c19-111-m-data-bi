@@ -12,13 +12,21 @@
 Analizar el comportamiento de los usuarios que
 abandonan el carrito de compras en un sitio web de e-commerce para identificar
 posibles razones y proponer estrategias de retención.
-
 </p>
 
 <br />
-<br />
 
-## 🔎 Deploy
+## 🛠️ Herramientas implementadas 
+  - Power BI
+  - API
+  - PowerPoint
+  - Figma 
+  - Vercel
+  - Google Sites
+  - Git || GitHub || GitHub Pages
+  - Notion
+  - Slack
+
 <div align="center">
   <h3>
     <a href="" >
@@ -26,15 +34,6 @@ posibles razones y proponer estrategias de retención.
     </a>
 </div>
 <br />
-
-## 🛠️ Herramientas implementadas 
-  - Power BI
-  - API
-  - Figma 
-  - Vercel
-  - Git || GitHub || GitHub Pages
-
-
 <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,figma" />
