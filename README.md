@@ -5,29 +5,17 @@
      <img width="400" heigth="200" src="img/NoCountry.png">
 </p>
  <h1 align="center"> Proyecto Análisis de Carrito Abandonado </h1>
-
-🥇 💻 Desarrollo del Proyecto: Análisis de Carrito Abandonado
-
-Descripción del Proyecto: Analizar el comportamiento de los usuarios que
-abandonan el carrito de compras en un sitio web de e-commerce para identificar
-posibles razones y proponer estrategias de retención.
-
-Fuente de Datos: Puedes encontrar datos simulados de carritos abandonados en
-plataformas como Kaggle
-
-
- <h1 align="center"> ¡Bienvenidos al Proyecto Análisis de Carrito Abandonado! </h1>
-
 <p align="center" >
      <img width="400" heigth="200" src="img/carro-compra-sobre-pantalla-tablet.png">
-     
 </p>
-
+ <h2>Objetivos</h2>
+Analizar el comportamiento de los usuarios que
+abandonan el carrito de compras en un sitio web de e-commerce para identificar
+posibles razones y proponer estrategias de retención.
 
 </p>
 
 <br />
-  ❤️ ESTADO: En proceso
 <br />
 
 ## 🔎 Deploy
