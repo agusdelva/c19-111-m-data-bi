@@ -27,6 +27,12 @@ posibles razones y proponer estrategias de retención.
   - Notion
   - Slack
 
+<br>
+<h2>Metodologia de trabajo Scrum</h2>
+<p>Permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
+
+Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor.</p>
+
 <div align="center">
   <h3>
     <a href="" >
