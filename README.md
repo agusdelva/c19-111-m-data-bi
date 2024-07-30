@@ -1,10 +1,11 @@
 <h1 align="center"> c19-111-m-data-bi </h1>
-<h1 align="center"> NO COUNTRY </h1>
 
 <p align="center" >
      <img width="400" heigth="200" src="img/NoCountry.png">
 </p>
- <h1 align="center"> Proyecto Análisis de Carrito Abandonado </h1>
+<h1 align="center"> Analytica Solutions </h1> 
+ <h1 align="center"> PROYECTO ANÁLISIS DE CARRITO ABANDONADO </h1>
+ </h1>
 <p align="center" >
      <img width="400" heigth="200" src="img/carro-compra-sobre-pantalla-tablet.png">
 </p>
