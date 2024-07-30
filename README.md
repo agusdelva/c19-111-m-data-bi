@@ -7,7 +7,7 @@
  <h1 align="center"> PROYECTO ANÁLISIS DE CARRITO ABANDONADO </h1>
  </h1>
 <p align="center" >
-     <img width="400" heigth="200" src="img/carro-compra-sobre-pantalla-tablet.png">
+     <img width="400" heigth="200" src="img/Portada logo.png">
 </p>
  <h2>Objetivos</h2>
 Analizar el comportamiento de los usuarios que
